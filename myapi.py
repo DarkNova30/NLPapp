@@ -5,12 +5,12 @@ class API:
         self.__url = "https://twinword-sentiment-analysis.p.rapidapi.com/analyze/"
 
         self.__headers = {
-            "x-rapidapi-key": "a917dfceb7msh6f09733b35af7b3p10f65ejsn1285bb4c78b8",
+            "x-rapidapi-key": #private APIkey,
             "x-rapidapi-host": "twinword-sentiment-analysis.p.rapidapi.com"
         }
 
         self.emo_headers = {
-            "x-rapidapi-key": "a917dfceb7msh6f09733b35af7b3p10f65ejsn1285bb4c78b8",
+            "x-rapidapi-key": #private APIkey,
             "x-rapidapi-host": "twinword-emotion-analysis-v1.p.rapidapi.com",
             "Content-Type": "multipart/form-data; boundary=---011000010111000001101001"
         }
@@ -37,4 +37,4 @@ if __name__ == '__main__':
 print(__name__)
 
 
-# i am excited to announce that i have been placed as a data scientist, looking forward to the job!!
+
