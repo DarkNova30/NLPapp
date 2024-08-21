@@ -43,6 +43,3 @@ The app's backend is designed to interact with an NLP API, which processes the t
 ## Results
 The application successfully identifies sentiment and emotions from the text input, providing users with accurate and timely feedback on their input data.
 
----
-
-This `README.md` provides a comprehensive overview of your project, highlighting its purpose, features, and the technology stack used.
